@@ -1,4 +1,4 @@
-# 📺 Spotify Clone – Tailwind CSS (Responsive UI)
+# 🎧 Spotify Clone – Tailwind CSS (Responsive UI)
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-Markup-orange?logo=html5&logoColor=white" />
@@ -24,13 +24,15 @@
 
 ## 📌 Project Overview
 
-This project is a **fully responsive YouTube UI clone** built using **Tailwind CSS**.
+This project is a **fully responsive Spotify UI clone** built using **Tailwind CSS**.
 
-The goal of this project was to **master real-world responsive layouts** without relying on tutorials.
+
+The goal of this project was to **master real-world responsive layouts**
 
 ### 🎯 Key Focus Areas
 - Layout structure (Header, Sidebar, Main, Footer)
 - Mobile-first responsive design
+-Sidebar navigation (Home, Search, Library)
 - Flexbox & Grid mastery
 - Sticky & fixed UI components
 - Avoiding overflow & width issues
@@ -42,11 +44,12 @@ The goal of this project was to **master real-world responsive layouts** without
 - ✅ Sticky top navigation bar  
 - ✅ Desktop sidebar navigation  
 - ✅ Mobile bottom navigation bar  
-- ✅ Horizontally scrollable category bar  
-- ✅ Responsive video grid  
-- ✅ Video cards with thumbnails & metadata  
-- ✅ Clean Tailwind utility-based styling  
-- ✅ Mobile / Tablet / Desktop support  
+- ✅ Sidebar navigation (Home, Search, Library)
+- ✅ Playlist & album cards
+- ✅ Sticky music player UI
+- ✅ Song list layout
+- ✅ Responsive grid for playlists
+ 
 
 ---
 
@@ -66,7 +69,7 @@ The goal of this project was to **master real-world responsive layouts** without
 ## 📁 Project Structure
 
 ```bash
-youtube-clone-tailwindcss/
+Spotify-Clone-tailwindcss/
 │
 ├── index.html
 ├── images/
@@ -102,7 +105,7 @@ Git & GitHub	Version Control
 
 🔹 Search functionality
 
-🔹 Video hover preview
+🔹 Audio hover preview
 
 🔹 Dark / Light mode toggle
 
